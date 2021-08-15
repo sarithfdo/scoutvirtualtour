@@ -1,0 +1,70 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = Scout_camp_web
+
+## Media
+
+### Title
+panorama_335B8DA4_3E97_4B79_4196_C333DEE33AF7.label = Frame_00000_FinalColor
+panorama_43211100_48A4_7962_41C9_AC91ECDFB431.label = Frame_00000_FinalColor
+panorama_443C2C42_4A0A_0EED_41CF_43B4B1FDCCDE.label = Frame_00000_FinalColor_point_2
+panorama_44E05528_49C1_5074_4198_A62BBF48EFB2.label = Frame_00000_FinalColor_point_3
+panorama_44E0C09D_49C1_704C_41D0_2D52418447D0.label = Frame_00000_FinalColor_point_5
+panorama_44E0E65F_49C1_70CC_41CB_9975B3CC078B.label = Frame_00000_FinalColor_point_6
+panorama_44E0EC16_49C1_705C_41C2_6B68998E3DC0.label = Frame_00000_FinalColor_point_7
+panorama_44E2EF3B_49C3_F04B_419B_AC8BDA46FD30.label = Frame_00000_FinalColor_point_1
+panorama_44E31AE6_49C1_51FC_418A_16B40A44F327.label = Frame_00000_FinalColor_point_4
+panorama_50904108_4A06_167E_41B7_3DA5B40C7477.label = Frame_00000_FinalColor_1
+panorama_52682CDB_4A1A_0F93_41C1_AC2E82D6E17D.label = Frame_00000_FinalColor_7
+panorama_52731F6A_4A06_0ABD_41A9_037CA87F621F.label = Frame_00000_FinalColor_5
+panorama_52B34822_4A0A_36B2_41C2_D872581FBF63.label = Frame_00000_FinalColor_6
+panorama_53A8734D_4AFE_3AF7_41BA_1CEE2036EF73.label = Frame_00000_FinalColor_3
+panorama_53D89E75_4A06_0A97_41C6_695108A58D1B.label = Frame_00000_FinalColor_2
+panorama_53EDDBC1_4A06_09EF_419A_7FFA7730652B.label = Frame_00000_FinalColor_4
+video_305845B0_3E95_5B5A_41CB_E07724185C32.label = Fire Green Screen Free Download-Realistic Fire Effects.mp4
+video_3291D8A8_3E77_494A_41C2_5B51F2C1AD02.label = BAK BAK Trailer
+
+## Action
+
+### URL
+LinkBehaviour_4608D852_4AE0_6F66_4198_BC6666D277E8.source = https://www.arimaclanka.com
+LinkBehaviour_460B0852_4AE0_6F66_41C8_414489F46B71.source = https://www.arimaclanka.com
+LinkBehaviour_52182D89_4A1A_0E7F_41BD_079E4CEC9D3C.source = https://www.youtube.com/watch?v=SHoiovATsp0
+LinkBehaviour_52183D8E_4A1A_0E75_41CA_40878F247498.source = https://www.youtube.com/watch?v=UFHY02SWngM
+LinkBehaviour_5218DD88_4A1A_0E7D_415B_FEAEE66B7524.source = https://youtu.be/OxFOuZCokLk
+LinkBehaviour_521F124E_4A06_7AF5_4186_0F0A9D9E79BB.source = https://youtu.be/0sKdCOCUFsM
+LinkBehaviour_521F624E_4A06_7AF5_41CE_9D307B300970.source = https://youtu.be/4fv9uMsVEUI
+LinkBehaviour_5249A922_4A0A_16AD_41D1_20E72FBE5050.source = https://www.youtube.com/watch?v=yNS6QRWWuZo
+LinkBehaviour_5254076A_4A0A_1AB2_418D_E2E251B6CB26.source = https://www.youtube.com/watch?v=BcPcvXW6_j0
+LinkBehaviour_5254476A_4A0A_1AB2_41AA_29F927620C7C.source = https://www.youtube.com/watch?v=spEr3arhDq0
+LinkBehaviour_5254B769_4A0A_1ABE_41CE_2D53994E6256.source = https://www.youtube.com/watch?v=4kj0wfZo__8
+LinkBehaviour_5254C769_4A0A_1ABE_41CC_E240D22F5876.source = https://www.youtube.com/watch?v=8lXskoO0LOc
+LinkBehaviour_52551767_4A0A_1AB2_41C2_848C4C947358.source = https://www.youtube.com/watch?v=mqG88yh-W3o
+LinkBehaviour_52552768_4A0A_1ABE_41AC_0C3D08822482.source = https://www.youtube.com/watch?v=wybqoX5cDTQ
+LinkBehaviour_5255C767_4A0A_1AB2_41C4_00AE3E0DDC31.source = https://www.youtube.com/watch?v=d9PT76Ui7JY
+LinkBehaviour_52740471_4A1A_1EAE_41C8_BA9DB97D96A0.source = https://www.youtube.com/watch?v=enodwan945c
+LinkBehaviour_52A857D0_4A0E_19ED_41B1_36B3B9A025FB.source = https://www.youtube.com/watch?v=_2oY8Tc705Y
+LinkBehaviour_52A867D1_4A0E_19EF_4184_D78A94B642F9.source = https://www.youtube.com/watch?v=FB1HD0jGyYY
+LinkBehaviour_52A997D1_4A0E_19EF_41C2_7D95CC562EF9.source = https://www.youtube.com/watch?v=2JVl0Y3Oo7w
+LinkBehaviour_52A9B7D1_4A0E_19EF_41BE_260BD3F6A41B.source = https://www.youtube.com/watch?v=N6vtz97mCG4
+LinkBehaviour_52BA2321_4A06_7AAF_41D0_9631CA0900EF.source = https://youtu.be/qEtsoANMxZo
+LinkBehaviour_52BA7321_4A06_7AAF_41CC_F3AED70DE34E.source = https://youtu.be/LAwDeuCSOyw
+LinkBehaviour_52CC901B_4AFA_7692_419C_84A2C0A93A77.source = https://www.youtube.com/watch?v=P6NrfipRWJQ
+LinkBehaviour_52D28470_4A1A_1EAE_41D2_347AD4B87888.source = https://youtu.be/VGVLuRNlk-E
+LinkBehaviour_52D2D471_4A1A_1EAE_41C8_8681825C24AA.source = https://www.youtube.com/watch?v=tv14rxhorUg
+LinkBehaviour_52D2E471_4A1A_1EAE_417D_5E956D40D83A.source = https://www.youtube.com/watch?v=SsSTiZUwsEU
+LinkBehaviour_52D3046F_4A1A_1EB2_419E_DFD36BCB36BC.source = https://youtu.be/q0mbKsKG-ng
+LinkBehaviour_52D34470_4A1A_1EAE_4195_F9AC95A0E327.source = https://youtu.be/q0mbKsKG-ng
+LinkBehaviour_52D3F46F_4A1A_1EB2_41D0_E7E08CA6BB1D.source = https://youtu.be/tvhSelbQRfQ
+LinkBehaviour_52DFA228_4A06_1ABD_41D1_1DE95FAF30EE.source = https://youtu.be/GjpvQZWN1LE
+LinkBehaviour_52E43B14_4AFE_0A95_4182_EAE022731E41.source = https://youtu.be/R4gsokFE3vU
+LinkBehaviour_52E47B14_4AFE_0A95_41D1_4CA9F72A3D8B.source = https://drive.google.com/file/d/1jMWHN5QzS3mAtBQND_IU81BiFvfL1v8l/view?usp=sharing
+LinkBehaviour_52E5FB13_4AFE_0A93_41BE_65D0D2D2188F.source = https://youtu.be/M9eUX_4kXmw
+LinkBehaviour_52EA0B0C_4AFE_0A75_41C8_E89D1D8C251B.source = https://youtu.be/0j_cnyRJTZg
+LinkBehaviour_52EA1B0D_4AFE_0A77_4184_BE7901F284B2.source = https://youtu.be/_v_caH7CIzY
+LinkBehaviour_52EA4B12_4AFE_0A6D_41AC_B1CAABE720D3.source = https://youtu.be/4tGVYAd7lTU
+LinkBehaviour_539ED0C2_4A06_17ED_41C6_1A40F6B0D3BC.source = https://www.youtube.com/channel/UCUwxp8ZeLjFHPwGMVYwo_zQ
+LinkBehaviour_5DAF1046_4AFA_76F2_41C9_A5B62743E2AE.source = https://drive.google.com/file/d/1sZB56tdFSCZoSrRPEGy3iE1YPDmOfvio/view?usp=sharing
